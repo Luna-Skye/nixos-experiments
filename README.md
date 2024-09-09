@@ -155,4 +155,4 @@ By enabling the option in your `home` scope, upon rebuilding the system, the `sy
 
 
 ## That's all she wrote
-That's about all I've got to say on this concept right now, I have yet to implement or use it and have no idea if it's a good idea to. If you're inclined to talk about it or have some thoughts on it, I'd be happy to hear about it through an issue, discussion post, or any other method that.
+That's about all I've got to say on this concept right now, I have yet to implement or use it and have no idea if it's a good idea to. If you're inclined to talk about it or have some thoughts on it, I'd be happy to hear about it through an issue, discussion post, or any other method that suits your fancy.
