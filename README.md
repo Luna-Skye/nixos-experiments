@@ -33,7 +33,7 @@ What if there were just one general scope to consider when writing the majority 
 
 A part of this mess comes from some specific and hardly neccessary desire to be able to configure a system to include an extra home-manager user without second thought or much effort. Change the single line in which that `nixosConfiguration` is declared on, to also include the name of the user in the `users` list passed into our fancy little `mkHost` function, and the `mkHost` function does the heavy lifting of building those users' configurations with home manager and even some system level config. I honestly haven't found a use for it and it feels a little nasty to me, but if my configuration can support it and I *might* need it someday, I'd like to leave myself a less painful option than refactor the whole config.
 
-Having spent a lot of my Nix time digging through modules like [Nixvim]() and [Stylix](), I started considering a more config module driven approach.
+Having spent a lot of my Nix time digging through modules like [Nixvim](https://github.com/nix-community/nixvim) and [Stylix](https://github.com/danth/stylix), I started considering a more config module driven approach.
 
 ---
 
